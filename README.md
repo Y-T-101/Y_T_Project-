@@ -1,2 +1,2 @@
 # Y_T_Project-
-Internal API key used on secure servers for authenticated communication between microservices in the Y-T infrastructure.
+A private internal project by Y-T focused on building secure, efficient, and scalable tools for development and automation.
